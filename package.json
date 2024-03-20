@@ -1,0 +1,27 @@
+{
+  "name": "web3-oracle-data-parser",
+  "version": "1.0.0",
+  "description": "Parse Web3 oracle data securely with a data parser, ensuring safe and reliable data handling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunlessdaze41/web3-oracle-data-parser"
+  },
+  "author": "sunlessdaze41",
+  "license": "MIT",
+  "dependencies": {
+    "web3-oracle-data-parser": "1.0.0",
+    "web3-oracle-data-safe": "1.0.0",
+    "validator": "1.0.0",
+    "bluebird": "1.0.0",
+    "react-dom": "1.0.0",
+    "jquery": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "underscore": "1.0.0",
+    "web3-utils": "1.0.0",
+    "socket.io": "1.0.0"
+  }
+}
